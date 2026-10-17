@@ -1,0 +1,13 @@
+.env
+.env.*
+*.db
+*.sqlite
+*.sqlite3
+*.pem
+*.key
+*.keystore
+*.jks
+*.log
+.dart_tool/
+build/
+android/key.properties
